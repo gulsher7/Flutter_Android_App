@@ -12,7 +12,9 @@
   </ul>
 
 <h2> FLUTTER VERSION</h2>
-<p> Flutter 1.9.1+hotfix.5</p>
+<ul>
+<li> Flutter 1.9.1+hotfix.5</li>
+</ul>
  
 
 <h1> Screenshort of Android_APp</h1>

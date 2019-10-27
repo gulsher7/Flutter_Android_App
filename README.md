@@ -6,12 +6,12 @@
   <li> Just replace the URL you want to make android app.</li>
   </ul>
   
- <h2>Used Flutter Packages<h2>
+ <h2>Used Flutter Packages</h2>
   <ul>
     <li> webview_flutter 0.3.15+1</li>
   </ul>
 
-<h3> FLUTTER VERSION</h3>
+<h2> FLUTTER VERSION</h2>
 <p> Flutter 1.9.1+hotfix.5</p>
  
 

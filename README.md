@@ -6,5 +6,5 @@
   <li> Just replace the URL you want to make android app.</li>
   </ul>
 
-<h1> FLUTTER VERSION</h1>
+<h3> FLUTTER VERSION</h3>
 <p> Flutter 1.9.1+hotfix.5</p>
